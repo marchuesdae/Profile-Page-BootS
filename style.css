@@ -1,0 +1,45 @@
+#home h1 {
+	color: black;
+  }
+  
+#contact {
+	display: flex;
+	justify-content: center;
+  }
+
+  .square-image {
+	width: 200px; 
+	height: 190px; 
+	object-fit: cover; 
+  }
+
+  .square-school{
+	width: 150px; 
+	height: 130px; 
+	object-fit: cover; 
+  }
+  
+  .carousel-item img {
+	max-width: 100%; 
+	height: auto; 
+  }
+  
+  .carousel {
+	max-width: 400px; 
+	margin: 0 auto; 
+  }
+  
+  #contact .container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%; 
+  }
+
+  
+  .icon img {
+	width: 50px; 
+	height: auto; 
+	border-radius: 50%; 
+  }
+  
